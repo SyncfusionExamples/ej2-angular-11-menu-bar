@@ -1,6 +1,6 @@
 # Angular11MenuApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+The [Angular Menu Bar](https://www.syncfusion.com/angular-ui-components/angular-menu-bar?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples) is a graphical user interface component that serves as a navigation header for your web application or site. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
 
